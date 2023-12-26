@@ -1,5 +1,13 @@
-### Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s6xybr8in)](https://solved.ac/s6xybr8in/)****
+# Nam Kwan Ho
+## 학교
+- 건국대학교 컴퓨터공학부 23 재학
+## BOJ
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s6xybr8in)](https://solved.ac/s6xybr8in/)
+## Skills
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=3776AB)
+
+
+
 <!--
 **s6xybr8in/s6xybr8in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
