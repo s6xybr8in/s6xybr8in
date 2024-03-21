@@ -4,8 +4,9 @@
 - 건국대학교 컴퓨터공학부 23 재학
 
 ## BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s6xybr8in)](https://solved.ac/s6xybr8in/)
-
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s6xybr8in)](https://solved.ac/s6xybr8in/) -->
+<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=motsuni04&theme=warm) -->
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=s6xybr8in)
 ## Skills
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white)
