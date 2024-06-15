@@ -2,7 +2,8 @@
 
 ## 학교
 - 건국대학교 컴퓨터공학부 23 재학
-
+# Euler
+![s6xybr8in's Project Euler stats](https://projecteuler.net/profile/s6xybr8in.png)
 ## BOJ
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s6xybr8in)](https://solved.ac/s6xybr8in/) -->
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=motsuni04&theme=warm) -->
