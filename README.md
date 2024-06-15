@@ -4,10 +4,10 @@
 - 건국대학교 컴퓨터공학부 23 재학
 ## Euler & BOJ & Codeforce
 ![s6xybr8in's Project Euler stats](https://projecteuler.net/profile/s6xybr8in.png)
+![s6xybr8in's Codeforce](https://run.kaist.ac.kr/badges/codeforces/s6xybr8in.svg)
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s6xybr8in)](https://solved.ac/s6xybr8in/) -->
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=motsuni04&theme=warm) -->
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=s6xybr8in)
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=c00lbr8in)
 ## Skills
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white)
