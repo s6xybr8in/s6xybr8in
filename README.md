@@ -5,6 +5,7 @@
 
 ## I'm Intersted in...
 - Number_Theory
+- Elliptic curve
 - AI(DL and ML) and Computer vision
 - Algorithm
   - 2023 2학기 SW심화프로젝트로 CA* alogirhtm 을 이용해 Turtle bots 제어해봤음.
