@@ -2,9 +2,15 @@
 
 ## 학교
 - 건국대학교 컴퓨터공학부 23 재학
+
+## I'm Intersted in...
+- Number_Theory
+- AI(DL and ML) and Computer vision
+- Algorithm
+  - 2023 2학기 SW심화프로젝트로 CA* alogirhtm 을 이용해 Turtle bots 제어해봤음.
+- Operating System
+
 ## Euler & BOJ & Codeforce
-![s6xybr8in's Project Euler stats](https://projecteuler.net/profile/s6xybr8in.png)
-![s6xybr8in's cofo](https://cp-logo.vercel.app/codeforces/<c00lbr8in>)
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s6xybr8in)](https://solved.ac/s6xybr8in/) -->
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=motsuni04&theme=warm) -->
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=s6xybr8in)
@@ -17,17 +23,4 @@
 ## Blog
 - https://s6xybr8in.tistory.com
 
-<!--
-**s6xybr8in/s6xybr8in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
