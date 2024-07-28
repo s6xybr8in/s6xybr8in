@@ -8,6 +8,7 @@
 - AI(DL and ML) and Computer vision
 - Algorithm
   - 2023 2학기 SW심화프로젝트로 CA* alogirhtm 을 이용해 Turtle bots 제어해봤음.
+  - 2023 ICPC Seoul Regional 참여해봤음. 
 - Operating System
 
 ## Euler & BOJ & Codeforce
