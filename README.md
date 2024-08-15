@@ -2,6 +2,7 @@
 
 ## 학교
 - 건국대학교 컴퓨터공학부 23 재학
+- 건국대학교 수학과 다전공 24-2
 
 ## I'm Intersted in...
 - Number_Theory
