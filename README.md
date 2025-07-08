@@ -8,7 +8,7 @@
 - AI(DL and ML) and Computer vision
 - Algorithm
   - 2023 2학기 SW심화프로젝트로 CA* alogirhtm 을 이용해 Turtle bots 제어해봤음.
-  - 2023 ICPC Seoul Regional 새내기팀 참여해봤음. 
+  - 2023 ICPC Seoul Regional Saenaegi team
 - Operating System
   - [나의 운영체제 만들기 프로젝트](https://github.com/s6xybr8in/OS_250622)
 
