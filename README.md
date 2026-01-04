@@ -5,12 +5,18 @@
 
 ## I'm Intersted in...
 - Number_Theory
-- AI(DL and ML) and Computer vision
+- AI(DL and ML)
+- Algorithm
+
+## 2024
 - Algorithm
   - 2023 2학기 SW심화프로젝트로 CA* alogirhtm 을 이용해 Turtle bots 제어해봤음.
   - 2023 ICPC Seoul Regional Saenaegi team
+## 2026
 - Operating System
   - [나의 운영체제 만들기 프로젝트](https://github.com/s6xybr8in/OS_250622)
+- Flutter
+  - [TodoApp](https://github.com/s6xybr8in/TodoApp.git)
 
 ## Euler & BOJ & Codeforce
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s6xybr8in)](https://solved.ac/s6xybr8in/) -->
