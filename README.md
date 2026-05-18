@@ -22,18 +22,12 @@
 
 ---
 
-## 🛠️ Skills
-### Languages
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=Cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=flat-square&logo=Dart&logoColor=white)
+## 🛠️ Tech Stacks
+### 🌌 Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,asm,linux,docker)](https://skillicons.dev)
 
-### Tech & Tools
-![Operating System](https://img.shields.io/badge/x86_OS-000000.svg?&style=flat-square&logo=linux&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white)
-
+### 🌊 Framework 
+[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 ---
 
 ## 🚀 Timeline & Projects
