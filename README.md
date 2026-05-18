@@ -24,10 +24,10 @@
 
 ## 🛠️ Tech Stacks
 ### 🌌 Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,asm,linux,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
 
 ### 🌊 Framework 
-[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,docker)](https://skillicons.dev)
 ---
 
 ## 🚀 Timeline & Projects
