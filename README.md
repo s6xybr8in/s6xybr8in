@@ -53,12 +53,5 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s6xybr8in&show_icons=true&theme=flat&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s6xybr8in&layout=compact&theme=flat&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
 
-<p align="center">
-  <!-- 바다 느낌의 딥블루 hits 카운터 -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs6xybr8in&count_bg=%231e3a8a&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" alt="Hits"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=s6xybr8in&theme=github-compact&hide_border=true&color=4091f1" width="100%" />
