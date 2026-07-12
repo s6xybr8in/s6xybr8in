@@ -11,7 +11,7 @@
 </div>
 
 ## 🏫 About Me
-- **건국대학교** 컴퓨터공학부 & 수학과 (23학번, 복수전공)
+- **건국대학교** 컴퓨터공학부 & 수학과 (23학번, 다전공)
 - 기록용 블로그: [s6xybr8in.tistory.com](https://s6xybr8in.tistory.com)
 
 ---
@@ -35,12 +35,11 @@
 ### 2026
 - **[운영체제 만들기 프로젝트](https://github.com/s6xybr8in/OS_250622)**
   - Docker 기반 환경에서 GCC, NASM을 이용한 32-bit x86 OS 커널 개발
-- **[TodoApp](https://github.com/s6xybr8in/TodoApp.git)**
-  - Flutter / Dart 기반 모바일 Todo 앱 개발 
 
 ### 2024
 - **SW 심화 프로젝트 (Turtle bots 제어)**
   - CA* Algorithm을 활용한 Turtle bots 제어 및 주행 실험
+### 2023
 - **ICPC Seoul Regional**
   - Saenaegi 팀 본선 진출
 
