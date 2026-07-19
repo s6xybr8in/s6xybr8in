@@ -12,7 +12,7 @@
 
 ## 🏫 About Me
 - **건국대학교** 컴퓨터공학부 & 수학과 (23학번, 다전공)
-- 기록용 블로그: [s6xybr8in.tistory.com](https://s6xybr8in.tistory.com)
+- 기록용 블로그: [s6xybr8in.github.io](https://s6xybr8in.github.io)
 
 ---
 
