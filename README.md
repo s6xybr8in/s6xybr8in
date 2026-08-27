@@ -37,7 +37,7 @@
   - Docker 기반 환경에서 GCC, NASM을 이용한 32-bit x86 OS 커널 개발
 
 ### 2024
-- **SW 심화 프로젝트 (Turtle bots 제어)**
+- **[SW 심화 프로젝트 (Turtle bots 제어)](https://github.com/KU-DEEP-SWPROJECT)**
   - CA* Algorithm을 활용한 Turtle bots 제어 및 주행 실험
 ### 2023
 - **ICPC Seoul Regional**
