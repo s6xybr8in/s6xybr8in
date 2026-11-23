@@ -34,7 +34,7 @@
 
 ### 2026
 - KUPC(건국대학교) 3등상
-- KGUPC(경기대학교) 우수상
+- KGUPC(경기대학교) 장려상
 - **[운영체제 만들기 프로젝트](https://github.com/s6xybr8in/OS_250622)**
   - Docker 기반 환경에서 GCC, NASM을 이용한 32-bit x86 OS 커널 개발
 
