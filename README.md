@@ -33,19 +33,20 @@
 ## 🚀 Timeline & Projects
 
 ### 2026
-- 구름톤 아레나 2026 4등(4/347) 
-- KUPC 26(건국대학교) 3등상
-- KGUPC 2026(경기대학교) 장려상
+- 구름톤 아레나 2026 4등 (4/347)
+- KUPC 26 (건국대학교) 3등상
+- KGUPC 2026 (경기대학교) 장려상
+- **대한민국 공군 CERT** (2024.09.09 ~ 2026.06.08)
 - **[운영체제 만들기 프로젝트](https://github.com/s6xybr8in/OS_250622)**
   - Docker 기반 환경에서 GCC, NASM을 이용한 32-bit x86 OS 커널 개발
 
 ### 2024
 - **[SW 심화 프로젝트 (Turtle bots 제어)](https://github.com/KU-DEEP-SWPROJECT)**
   - CA* Algorithm을 활용한 Turtle bots 제어 및 주행 실험
-### 2023
-- **ICPC Seoul Regional**
-  - Saenaegi 팀 본선 진출
 
+### 2023
+- The 2023 ICPC Asia Korea National First Round Programming Contest
+  - Team Saenaegi · 71위
 ---
 
 ## 📊 GitHub Stats
